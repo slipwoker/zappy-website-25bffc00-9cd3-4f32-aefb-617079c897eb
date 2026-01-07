@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://refield-25bffc00.zappy5.app/sitemap.xml
