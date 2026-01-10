@@ -1,50 +1,60 @@
-# Business — Generative Engine Optimization Map
+# ReField — Generative Engine Optimization Map
+
+> A חקלאות וטכנולוגיה business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://refield.zappy5.app
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com
 אפליקציה להפיכת שטח לחקלאי עם שירות לקוחות בצ'אט מתקדם. הפוך את השטח שלך למשאב חקלאי פעיל בקלות.
 
 ### שירותים
-https://refield.zappy5.app/services
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/services
 גלה את שירותי שירות לקוחות בצ אט המתקדמים שלנו לחקלאות חכמה. אפליקציה להפיכת שטח לחקלאי עם תמיכה מלאה.
 
 ### אודות
-https://refield.zappy5.app/about
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/about
 למד על ReField, האפליקציה החדשנית להפיכת שטח לחקלאי עם שירות לקוחות בצ'אט מתקדם. הסיפור שלנו, החזון והמשימה.
 
 ### צור קשר
-https://refield.zappy5.app/contact
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/contact
 צור קשר עם ReField דרך שירות לקוחות בצ'אט שלנו. נשמח לענות על כל שאלה לגבי האפליקציה להפיכת שטח לחקלאי.
 
 ### מרכז נתונים ואנליטיקה
-https://refield.zappy5.app/data-dashboard
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/data-dashboard
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://refield.zappy5.app/privacy
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://refield.zappy5.app/terms
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://refield.zappy5.app/accessibility
+https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About ReField
+ReField is a business in the חקלאות וטכנולוגיה industry.
+
+## Target Audience
+בעלי שטחים שרוצים להפוך אותם לשטחים חקלאיים פעילים
+
+## Industry
+חקלאות וטכנולוגיה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://refield.zappy5.app/sitemap.xml
-- **Robots.txt**: https://refield.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/robots.txt
