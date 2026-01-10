@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-25bffc00-9cd3-4f32-aefb.onrender.com/sitemap.xml
+Sitemap: https://refield.zappy5.app/sitemap.xml
