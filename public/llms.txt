@@ -1,6 +1,4 @@
-# ReField — Generative Engine Optimization Map
-
-> A חקלאות וטכנולוגיה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -43,15 +41,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About ReField
-ReField is a business in the חקלאות וטכנולוגיה industry.
-
-## Target Audience
-בעלי שטחים שרוצים להפוך אותם לשטחים חקלאיים פעילים
-
-## Industry
-חקלאות וטכנולוגיה
-
+## About Business
 ---
 
 # Additional Resources
