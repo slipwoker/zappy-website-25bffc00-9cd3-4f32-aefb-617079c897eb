@@ -1,57 +1,50 @@
-# ReField — Generative Engine Optimization Map
-
-> A חקלאות וטכנולוגיה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://refield-25bffc00.zappy5.app
+https://example.com
 אפליקציה להפיכת שטח לחקלאי עם שירות לקוחות בצ'אט מתקדם. הפוך את השטח שלך למשאב חקלאי פעיל בקלות.
 
 ### שירותים
-https://refield-25bffc00.zappy5.app/services
+https://example.com/services
 גלה את שירותי שירות לקוחות בצ אט המתקדמים שלנו לחקלאות חכמה. אפליקציה להפיכת שטח לחקלאי עם תמיכה מלאה.
 
 ### אודות
-https://refield-25bffc00.zappy5.app/about
+https://example.com/about
 למד על ReField, האפליקציה החדשנית להפיכת שטח לחקלאי עם שירות לקוחות בצ'אט מתקדם. הסיפור שלנו, החזון והמשימה.
 
 ### צור קשר
-https://refield-25bffc00.zappy5.app/contact
+https://example.com/contact
 צור קשר עם ReField דרך שירות לקוחות בצ'אט שלנו. נשמח לענות על כל שאלה לגבי האפליקציה להפיכת שטח לחקלאי.
+
+### מרכז נתונים ואנליטיקה
+https://example.com/data-dashboard
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://refield-25bffc00.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://refield-25bffc00.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://refield-25bffc00.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ReField
-ReField is a business in the חקלאות וטכנולוגיה industry.
-
-## Target Audience
-בעלי שטחים שרוצים להפוך אותם לשטחים חקלאיים פעילים
-
-## Industry
-חקלאות וטכנולוגיה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://refield-25bffc00.zappy5.app/sitemap.xml
-- **Robots.txt**: https://refield-25bffc00.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
